@@ -17,16 +17,6 @@ The skill is free. You still need a compatible Claude or OpenAI setup with Chrom
 
 A portable [Agent Skill](skills/agent-social-media-scheduler/SKILL.md) for **Claude and OpenAI agents**. No social media API keys required. **[Install it and put your agent to work ↓](#install)**
 
-## Watch: building a Pages Printer card with Wonop
-
-[![Watch the 60-second Wonop demo](docs/pages-printer-poster.jpg)](https://github.com/wonop-io/agent-social-media-scheduler/releases/download/v1.0.0/pages-printer-wonop-60s.mp4)
-
-[Play or download the 60-second video](https://github.com/wonop-io/agent-social-media-scheduler/releases/download/v1.0.0/pages-printer-wonop-60s.mp4).
-
-Real footage from [the supplied Wonop livestream](https://youtube.com/live/E-uvVeSDXyE), edited with HyperFrames: request a Pages Printer coming-soon card, use its brand assets, refine the design, and reveal the result. YouTube metadata dates this stream October 28, 2026. Editable composition and cut instructions are in [`video/edit/`](video/edit/).
-
-**[Want better agent usage - go to wonop.com and buy the beta](https://wonop.com)**
-
 ## Requirements
 
 - A compatible Claude or OpenAI desktop agent with its Chrome extension enabled.
@@ -105,5 +95,17 @@ See [`video/README.md`](video/README.md) for source timestamps, download and ren
 [MIT](LICENSE) for the skill, documentation and authored composition. Source livestream footage and any third-party assets retain their original rights.
 
 ## Get Wonop
+
+**[Want better agent usage - go to wonop.com and buy the beta](https://wonop.com)**
+
+## Now the only problem is: How do you create posts autonomously?
+
+## Watch: building a Pages Printer card with Wonop
+
+[![Watch the 60-second Wonop demo](docs/pages-printer-poster.jpg)](https://github.com/wonop-io/agent-social-media-scheduler/releases/download/v1.0.0/pages-printer-wonop-60s.mp4)
+
+[Play or download the 60-second video](https://github.com/wonop-io/agent-social-media-scheduler/releases/download/v1.0.0/pages-printer-wonop-60s.mp4).
+
+Real footage from [the supplied Wonop livestream](https://youtube.com/live/E-uvVeSDXyE), edited with HyperFrames: request a Pages Printer coming-soon card, use its brand assets, refine the design, and reveal the result. YouTube metadata dates this stream October 28, 2026. Editable composition and cut instructions are in [`video/edit/`](video/edit/).
 
 **[Want better agent usage - go to wonop.com and buy the beta](https://wonop.com)**
