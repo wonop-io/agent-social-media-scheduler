@@ -1,0 +1,14 @@
+.DS_Store
+video/source/
+video/edit/node_modules/
+video/edit/.hyperframes/
+video/edit/assets/
+video/edit/out/
+social-campaigns/
+
+video/work/
+
+/out/
+
+video/edit/.thumbnails/
+video/edit/.waveform-cache/

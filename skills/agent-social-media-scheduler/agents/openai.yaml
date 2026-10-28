@@ -1,0 +1,4 @@
+interface:
+  display_name: "Agent Social Media Scheduler"
+  short_description: "Plan videos and wake up to post through Chrome"
+  default_prompt: "Use $agent-social-media-scheduler to plan my videos over the next few days and create scheduled wake-ups that post through Chrome."
