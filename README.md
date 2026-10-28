@@ -1,8 +1,21 @@
 # Agent Social Media Scheduler
 
-Give your agent videos. Let it plan the next few days, wake itself up, and schedule each post through your signed-in Chrome browser.
+## Your social scheduling bill: $39/month → $0
 
-A portable [Agent Skill](skills/agent-social-media-scheduler/SKILL.md) for **Claude and OpenAI agents** with Chrome extension access and native scheduled actions. No social media API keys required.
+**Already paying for an AI agent? Give it the scheduling job, too.**
+
+If you're spending $39/month on a separate post scheduler, that's **$468 a year** to put your content on a calendar. This free, open-source skill lets your existing agent take on that workflow—with **$0 in additional scheduler subscription fees**.
+
+Give it your videos. It plans the next few days, writes the copy, sets its own wake-ups, and uses your signed-in Chrome browser to schedule the posts. You bring the content. Your agent handles the queue.
+
+| Your separate scheduler bill | Monthly | Yearly |
+| --- | ---: | ---: |
+| If you're on a $39/month scheduler plan | $39 | $468 |
+| This open-source skill | **$0** | **$0** |
+
+The skill is free. You still need a compatible Claude or OpenAI setup with Chrome access and scheduled actions; your existing agent subscription, usage limits, and any usage or media-generation costs still apply.
+
+A portable [Agent Skill](skills/agent-social-media-scheduler/SKILL.md) for **Claude and OpenAI agents**. No social media API keys required. **[Install it and put your agent to work ↓](#install)**
 
 ## Watch: building a Pages Printer card with Wonop
 
